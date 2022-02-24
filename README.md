@@ -12,7 +12,7 @@
     *   wikipedia-movies.json
     *   movies_metadata.csv
     *   ratings.csv
-        *   These .csv datasets are not available in this GitHub repository due to their file size being >100mbs. You can [click this link to download the zip for these datasets from kaggle.com (sign in required)](https://www.kaggle.com/account/login?titleType=dataset-downloads&showDatasetDownloadSkip=False&messageId=datasetsWelcome&returnUrl=%2Frounakbanik%2Fthe-movies-dataset%3Fresource%3Ddownload)
+        *   These .csv datasets are not available in this GitHub repository due to their file size being >100MB. You can [click this link to download the zip for these datasets from kaggle.com (sign in required)](https://www.kaggle.com/account/login?titleType=dataset-downloads&showDatasetDownloadSkip=False&messageId=datasetsWelcome&returnUrl=%2Frounakbanik%2Fthe-movies-dataset%3Fresource%3Ddownload)
 
 ## Overview/Purpose
 
